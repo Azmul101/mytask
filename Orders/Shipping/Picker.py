@@ -22,7 +22,7 @@ class ChromePicker(unittest.TestCase, Login):
         driver_chrome.find_element_by_name("username").send_keys(self.username)
         driver_chrome.find_element_by_name("password").send_keys(self.password)
         driver_chrome.find_element_by_xpath("/html/body/div/div/div/div[2]/div[1]/form/button").click()
-        time.sleep(5)
+        time.sleep(6)
         #chrome_options = Options()
         #chrome_options.add_argument("--disable-notification")
         #driver_chrome = webdriver.Chrome(chrome_options=chrome_options)
