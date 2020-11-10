@@ -374,3 +374,163 @@ JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnaly
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1604932397061	geckodriver	INFO	Listening on 127.0.0.1:57040
+1604932400121	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUHAMM~1\\AppData\\Local\\Temp\\rust_mozprofilebo2wOF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604932407680	Marionette	INFO	Listening on port 57049
+1604932408139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+1604932466257	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604932472998	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604934055452	Marionette	INFO	Stopped listening on port 57049
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604938295208	geckodriver	INFO	Listening on 127.0.0.1:57762
+1604938298308	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUHAMM~1\\AppData\\Local\\Temp\\rust_mozprofileNDOq8E"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604938315475	Marionette	INFO	Listening on port 57770
+1604938315580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+1604938528710	Marionette	INFO	Stopped listening on port 57770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604938610416	geckodriver	INFO	Listening on 127.0.0.1:57921
+1604938613504	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUHAMM~1\\AppData\\Local\\Temp\\rust_mozprofile4egXjs"
+1604938656801	geckodriver	INFO	Listening on 127.0.0.1:57975
+1604938659849	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUHAMM~1\\AppData\\Local\\Temp\\rust_mozprofileBIkpAQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604938665024	Marionette	INFO	Listening on port 57983
+1604938665487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+1605002760789	Marionette	INFO	Stopped listening on port 57983
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605005614468	geckodriver	INFO	Listening on 127.0.0.1:53391
+1605005617502	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUHAMM~1\\AppData\\Local\\Temp\\rust_mozprofileAXNVJC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605005627892	Marionette	INFO	Listening on port 53401
+1605005628187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+1605005657098	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605005671091	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605005707962	Marionette	INFO	Stopped listening on port 53401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605006299703	geckodriver	INFO	Listening on 127.0.0.1:53944
+1605006303019	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUHAMM~1\\AppData\\Local\\Temp\\rust_mozprofileTOvdwR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605006315621	Marionette	INFO	Listening on port 53955
+1605006316697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+1605008917856	Marionette	INFO	Stopped listening on port 53955
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Local\\Temp\\rust_mozprofileRpWLPN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605006638172	Marionette	INFO	Listening on port 54244
+1605006638267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1605008915103	Marionette	INFO	Stopped listening on port 54244
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605011028863	geckodriver	INFO	Listening on 127.0.0.1:55333
+1605011031913	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUHAMM~1\\AppData\\Local\\Temp\\rust_mozprofileIucWNb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605011042505	Marionette	INFO	Listening on port 55342
+1605011042597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1605011100753	Marionette	INFO	Stopped listening on port 55342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605011516070	geckodriver	INFO	Listening on 127.0.0.1:55504
+1605011519100	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUHAMM~1\\AppData\\Local\\Temp\\rust_mozprofilenRPgZU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605011531859	Marionette	INFO	Listening on port 55513
+1605011532002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+JavaScript error: https://staging-encore.brandedonline.com/static/js/googleAnalytics-min.js, line 1: ReferenceError: ga is not defined
+1605011594566	Marionette	INFO	Stopped listening on port 55513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

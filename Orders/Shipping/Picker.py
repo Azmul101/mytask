@@ -1,6 +1,7 @@
 # Import the necessary modules for development
 import time
 import unittest
+import HtmlTestRunner
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
@@ -36,7 +37,12 @@ class ChromePicker(unittest.TestCase, Login):
         time.sleep(5)
         driver_chrome.find_element_by_xpath("/html/body/div[1]/div[1]/div/div/div/div/div/div/div/div/div[1]/div[1]/a[2]").click()
         time.sleep(10)
-        #driver_chrome.save_screenshot('screenshot-Chrome.png')
+        driver_chrome.save_screenshot('screenshot-Chrome.png')
+
+    def teardown(self):
+        self.driver.implicitly_wait(10)
+        self.driver.close()
+        self.driver.quit()
 
 
 class FirefoxPicker(unittest.TestCase, Login):
@@ -69,11 +75,7 @@ class FirefoxPicker(unittest.TestCase, Login):
         driver_firefox.set_preference("browser.download.manager.showWhenStarting", False)
         driver_firefox.set_preference("browser.helperApps.neverAsk.saveToDisk", "text/plain")
 
-    def teardown(self):
-        # self.driver.implicitly_wait(10)
-        self.driver.close()
-        self.driver.quit()
-
 
 if __name__ == "__main__":
-    unittest.main()
+    unittest.main(testRunner=HtmlTestRunner.
+                  HTMLTestRunner(output='C://Users/Muhammad Azmul Haq//PycharmProjects//mytask/Orders//Reports', report_name="Picker test report"))
